@@ -16,3 +16,6 @@ Left-click on a server of your choice and it will automatically open your FiveM 
 
 # Disclaimer
 If you are not a DOJRP Member, you will be able to connect, however, you will not get past the loading screen. (This is the default structure)
+
+# Further Insight
+If you require further insight before downloading, please change the Branch selector to "Files." (Below the "<> Code" button
