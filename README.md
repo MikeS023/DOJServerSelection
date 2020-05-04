@@ -15,7 +15,7 @@ In the upper right-hand corner, you will find a "Return to Home" button. Click t
 Left-click on a server of your choice and it will automatically open your FiveM and connect you to the DOJRP Server. 
 
 # Disclaimer
-If you are not a DOJRP Member, you will be able to connect, however, you will not get past the loading screen. (This is the default structure)
+If you are not a DOJRP Member, you will be able to connect, however, you will not get past the loading screen. (This is the default structure) I will also continue to update this application further!
 
 # Further Insight
 If you require further insight before downloading, please change the Branch selector to "Files." (Below the "<> Code" button)
