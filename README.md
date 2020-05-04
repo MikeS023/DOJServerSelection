@@ -19,3 +19,8 @@ If you are not a DOJRP Member, you will be able to connect, however, you will no
 
 # Further Insight
 If you require further insight before downloading, please change the Branch selector to "Files." (Below the "<> Code" button)
+
+
+# Credit
+Mike S.: https://www.dojrp.com/profile/82-mike-s-civ-12/
+Alex M.: https://www.dojrp.com/profile/14570-alex-m-civ-40/
